@@ -1,14 +1,16 @@
-# Lista de Tarefas (React + Vite)
-
-> Aplicação simples de lista de tarefas construída com React, Vite e Tailwind CSS — projeto pessoal pensado para demonstrar organização de componentes, boas práticas em UI e fluxo de trabalho front-end.
-
-**Status:** Concluído — protótipo funcional
-
 ## Demo
 
 **Acesse o site:**
 
 https://gleybsondias.github.io/Lista-de-tarefas-com-React/
+
+# Lista de Tarefas (React + Vite)
+ 
+[![React](https://img.shields.io/badge/React-16.8%2B-61DAFB?logo=react&logoColor=white)](https://reactjs.org) [![Vite](https://img.shields.io/badge/Vite-3%2B-646cff?logo=vite&logoColor=white)](https://vitejs.dev) [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3%2B-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com) [![Node.js](https://img.shields.io/badge/Node.js-16%2B-339933?logo=node.js&logoColor=white)](https://nodejs.org)
+
+> Aplicação simples de lista de tarefas construída com React, Vite e Tailwind CSS — projeto pessoal pensado para demonstrar organização de componentes, boas práticas em UI e fluxo de trabalho front-end.
+
+**Status:** Concluído — protótipo funcional
 
 **Visão rápida**
 
